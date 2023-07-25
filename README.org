@@ -1,0 +1,10 @@
+* cl-notebook
+
+A notebook-style editor for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/inaimathi/cl-notebook.git   |
+| commit  | 580c3d1  |
+| systems | cl-notebook |
+|---------+-------------------------------------------|
+
